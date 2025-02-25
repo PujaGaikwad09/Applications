@@ -1,2 +1,6 @@
 This is File C.
+<<<<<<< HEAD
 This is me.
+=======
+This is squash merge.
+>>>>>>> Features
