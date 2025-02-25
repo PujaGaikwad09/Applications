@@ -1,1 +1,2 @@
 This is file L
+This is squash merge.
